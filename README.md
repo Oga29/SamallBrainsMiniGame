@@ -19,7 +19,7 @@ There is no much to add. Feel free to make a pull request to improve the game
 
  - Alber Chica - Programmer
  - Carlos Godoy - Programmer, Management
- - Ogylandy Yespagambetov - Game Designer
+ - Ogylandy Yespagambetov - Game Designer (KEKW)
  - Pau Garcia - Artist
 
 ## License
