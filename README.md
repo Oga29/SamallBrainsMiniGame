@@ -17,10 +17,10 @@ There is no much to add. Feel free to make a pull request to improve the game
 
 ## Developers
 
- - Alber Chica - Programmer
+ - {Dev01} - {Role(s)}
  - {Dev02} - {Role(s)}
  - {Dev03} - {Role(s)}
- - {Dev04} - {Role(s)}
+ - {Ogylandy aka "Oga"} - {Management, composer KEKW}
 
 ## License
 
