@@ -1,8 +1,8 @@
 # SmallBrainsMiniGame
  
-## Description
+## This is our first minigame
 
-{project description}
+There is no much to add. Feel free to make a pull request to improve the game
 
 ## Key Features
 
