@@ -18,9 +18,9 @@ There is no much to add. Feel free to make a pull request to improve the game
 ## Developers
 
  - Alber Chica - Programmer
- - {Dev02} - {Role(s)}
- - {Dev03} - {Role(s)}
- - {Dev04} - {Role(s)}
+ - Carlos Godoy - Programmer, Management
+ - Ogylandy Yespagambetov - Game Designer
+ - Pau Garcia - Artist
 
 ## License
 
